@@ -14,7 +14,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Beliroth/SENTINELA.git
+git clone https://github.com/Beliroth/Sentinela-v1.git
 
 Enter the project directory:
 
